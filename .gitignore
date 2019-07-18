@@ -1,3 +1,9 @@
 node_modules
+# GitHub build config
+*.build.css
+*.build.min.css
+themes/build/
+
+# lockfiles
 package-lock.json
 yarn.lock
